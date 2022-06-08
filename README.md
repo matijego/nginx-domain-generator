@@ -4,6 +4,8 @@ En esta documentación se detallará como utilizar el script generador-dominios.
 
 
 
+
+
 ### Pre-requisitos 📋
 
 _Para poder utilizar el script es necesario tener instalado el gestor de proxy inverso NGINX y el certificador de SSL automático Certbot._
@@ -25,7 +27,10 @@ sudo snap install --classic certbot
 _IMPORTANTE: Se debe haber creado el subdominio en su servidor de DNS antes de ejecutar el script sino NO funcionará._
 
 
-### Como se usa 🖥
+
+
+
+### Como utilizarlo 🖥
 
 _Se deberá ejecutar la siguiente instrucción en la misma ubicación donde se encuentre el archivo generador-de-dominios.sh_
 
@@ -49,6 +54,9 @@ _Como último paso deberá ingresar la ip local y puerto correspondiente del ser
 ```
 
 _Cargado estos datos de manera correcta se procederá a crear los archivos de configuración en NGINX y la instalación del certificado SSL con certbot_
+
+
+
 
 
 
