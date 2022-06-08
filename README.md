@@ -1,6 +1,6 @@
 # Como usar el generador de subdominios con nginx 🌐
 
-En esta documentación se detallará como utilizar el script generador-dominios.sh que sirve para automatizar las configuraciones previas para enlazar un subdominio a través 
+En esta documentación se detallará como utilizar el script generador-dominios.sh que sirve para automatizar las configuraciones previas para enlazar un subdominio a través NGINX con un servidor de DNS
 
 
 
